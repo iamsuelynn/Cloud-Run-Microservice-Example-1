@@ -1,0 +1,11 @@
+# Function dependencies, for example:
+# package>=version
+# Function dependencies, for example:
+# package>=version
+Flask
+gunicorn
+google-api-core
+google-cloud-bigquery
+pandas
+pandas-gbq
+gcsfs
